@@ -1,0 +1,100 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  color: #878787;
+  font-family: 'Varela Round', sans-serif;
+  background-color: #faebd7;
+}
+
+h1 {
+  font-size: 60px;
+  text-shadow: #FC0 1px 0 10px;
+  text-transform: uppercase;
+  color: white;
+  background-color: green;
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+  margin-top: -60px;
+  padding: 40px;
+}
+
+h2 {
+  font-size: 40px;
+  text-decoration: underline;
+  color: tomato;
+  text-align: center;
+}
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+  line-height: 35px;
+  text-align: center;
+}
+
+a {
+  color: blue;
+  margin-left: 500px;
+}
+
+#main {
+  color: black;
+  font-size: 24px;
+}
+
+#title {
+  color: white;
+}
+
+#img-div {
+   margin-top: 20px;
+}
+
+#image {
+  width: 80%;
+  max-width: 100%;
+  margin: 0 120px;
+  border: 60px solid white;
+  display: block;
+}
+
+#img-caption {
+  margin-top: -50px;
+  margin-bottom: 100px;
+  text-align: center;
+  color: #ff7f50;
+}
+
+.floatleft {
+  display: inline-block;
+  margin-top: 0;
+  margin-left: 280px;
+}
+
+.floatright {
+  display: inline-block;
+  margin-top: 0;
+  margin-left: 280px;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-link {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.main-footer {
+  background-color: green;
+  padding: 20px;
+  margin-top: 20px;
+  color: yellow;
+}
+
