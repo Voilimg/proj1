@@ -1,7 +1,8 @@
 // !! IMPORTANT README:
 
 // You may add additional external JS and CSS as needed to complete the project, however the current external resource MUST remain in place for the tests to work. BABEL must also be left in place. 
-
+//git config --global user.email "ling@stoneblue.com"
+//git config --global user.name "Violing"
 /***********
 INSTRUCTIONS:
   - Select the project you would 
